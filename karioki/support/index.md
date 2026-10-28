@@ -12,7 +12,7 @@ Karioki は、スクリーンショットや写真・動画を、カメラロー
 
 **Glyphe.info@gmail.com**
 
-提供者: Junya Yamaguchi
+提供者: Glyphe
 
 ## よくある質問
 
