@@ -9,5 +9,7 @@ title: Glyphē apps
   [サポート](https://glyphe-apps.github.io/keyboardist/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/keyboardist/privacy/)
 - **Karioki** — 期限つきで、写真を一時保管するアプリ
   [サポート](https://glyphe-apps.github.io/karioki/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/karioki/privacy/)
+- **Digital art** — 写真を、ドット絵・モザイク風の絵に変換するアプリ
+  [サポート](https://glyphe-apps.github.io/digitalart/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/digitalart/privacy/)
 
 提供者: Glyphe　お問い合わせ: Glyphe.info@gmail.com
