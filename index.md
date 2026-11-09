@@ -23,6 +23,14 @@ title: Glyphē apps
 
 [サポート](https://glyphe-apps.github.io/karioki/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/karioki/privacy/)
 
+## Time is Dots
+
+時間の流れを、ドットで。ロック画面とダイナミックアイランドで、時間の経過が見えます。
+
+**[App Store で見る](https://apps.apple.com/jp/app/time-is-dots/id6831161300)**
+
+[サポート](https://glyphe-apps.github.io/time-is-dots/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/time-is-dots/privacy/)
+
 ## Karioki + Keyboardist セット
 
 2 本を組み合わせると、画面の文字を打ち直さずに入力できます。
