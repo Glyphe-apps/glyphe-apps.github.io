@@ -41,3 +41,34 @@ Time is Dots（以下「本アプリ」）は、時間の流れを点で表示�
 ## 6. このポリシーの変更
 
 内容を変更するときは、このページで知らせます。
+
+---
+
+# Time is Dots Privacy Policy (English)
+
+Effective: November 7, 2026 — Provider: Glyphe — Contact: Glyphe.info@gmail.com
+
+## 1. Summary
+- **We do not collect, receive, or send any of your personal information.**
+- The app **never connects to any server**.
+- The app has **no ads, no analytics, and no tracking**.
+
+## 2. Information stored on your device
+| Information | Purpose |
+|---|---|
+| App settings (time range, colors, display options) | To keep the app working the way you set it |
+| Purposes and time ranges you add | To show the ones you choose |
+
+This information is stored **only on your device** and is deleted when you delete the app. Deleted data cannot be restored.
+
+## 3. Permissions
+The app does not use Photos, Camera, Microphone, Location, Contacts, or similar permissions.
+
+## 4. Live Activities and widgets
+Everything shown in the Dynamic Island, on the Lock Screen, and on the Home Screen is created on your device.
+
+## 5. Sharing with third parties
+Because the app collects no information, nothing is shared with third parties.
+
+## 6. Changes
+If this policy changes, we will update this page.

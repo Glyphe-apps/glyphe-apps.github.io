@@ -5,8 +5,7 @@ title: Keyboardist プライバシーポリシー
 
 # Keyboardist プライバシーポリシー
 
-制定日: 2026年10月28日
-改定日: 2026年11月5日
+制定日: 2026年10月28日（改定: 2026年11月12日）
 提供者: Glyphe（以下「提供者」）
 お問い合わせ: Glyphe.info@gmail.com
 
@@ -28,8 +27,8 @@ Keyboardist（以下「本アプリ」）は、日本語・英語のキーボー
 | 変換の学習データ | よく使う変換を、上位に出すため | 「学習」の設定で、オン・オフできます |
 | ユーザー辞書 | 利用者が登録した単語を、変換に使うため | |
 | 定型文・カスタムタブ | 利用者が作ったものを、キーボードで使うため | |
-| コピー履歴 | コピーした文字を、あとで入力しやすくするため | **フルアクセスをオンにし、設定で有効にしたときだけ**。最大 50 件。パスワード管理アプリなどが「機密」と印を付けたコピーは、保存しません。履歴タブから、削除できます |
-| コピー履歴（画像） | コピーした画像（スクリーンショット・写真）を、あとで貼り付けやすくするため | **フルアクセスをオンにし、設定で有効にし、初回のお知らせで「OK」を押したときだけ**。最新 20 枚・合計 50MB まで。**既定で 3 日たつと自動で削除**します（設定で 1・3・7・30 日、または固定）。画像は、端末の中の、本アプリの保管場所だけに保存され、**外部へは送信されません**。パスワード管理アプリなどが「機密」と印を付けたコピーは、保存しません。履歴の「画像」タブから、1 枚ずつ、またはすべて削除できます |
+| コピー履歴（文字） | コピーした文字を、あとで入力しやすくするため | **フルアクセスをオンにし、設定で有効にしたときだけ**。最大 50 件。パスワード管理アプリなどが「機密」と印を付けたコピーは、保存しません。履歴タブから、削除できます |
+| コピー履歴（画像） | コピーした画像（スクリーンショット・写真）を、あとで貼り付けやすくするため | **フルアクセスをオンにし、設定で有効にしたときだけ**。最大 20 枚・合計 50MB。保存から 3 日（設定で変更可）で自動で削除。固定した画像は残ります。設定から、すべて削除できます |
 | 設定 | キーボードの見た目や動作を、保つため | |
 
 本アプリを削除すると、これらの情報も、端末から削除されます。
@@ -39,7 +38,7 @@ Keyboardist（以下「本アプリ」）は、日本語・英語のキーボー
 iOS は、キーボードアプリが次の機能を使うとき、「フルアクセスを許可」を求めます。本アプリでは、次の目的に使います。**フルアクセスをオンにしなくても、キーボードの基本機能（入力・変換）は、すべて使えます。**
 
 - キーを押したときの**振動（触覚）フィードバック**
-- **コピー履歴**（文字・画像）と、キーボードからの**ペースト**ボタン
+- **コピー履歴**と、キーボードからの**ペースト**ボタン
 
 iOS の画面には、「キーボードに入力したすべての内容を、開発元に送信される可能性があります」という警告が出ます。これは、すべてのキーボードアプリに共通の警告です。**本アプリは、外部のサーバーと通信する機能を持たないため、入力した内容が、本アプリから外へ送信されることはありません。**
 
@@ -57,7 +56,7 @@ iOS の画面には、「キーボードに入力したすべての内容を、�
 
 ## 7. オープンソースソフトウェア
 
-本アプリは、オープンソースソフトウェア **azooKey**（MIT License, Copyright (c) 2020-2023 Keita Miwa (ensan)）などをもとにしています。使用しているソフトウェアのライセンスは、アプリの「設定」の「オープンソースソフトウェア」の画面に表示しています。（画面への追加は、`rc/keyboardist-release-cleanup` で対応済み）
+本アプリは、オープンソースソフトウェア **azooKey**（MIT License, Copyright (c) 2020-2023 Keita Miwa (ensan)）などをもとにしています。使用しているソフトウェアのライセンスは、アプリの「設定」の「オープンソースソフトウェア」の画面に表示しています。
 
 ## 8. 変更
 
@@ -65,4 +64,50 @@ iOS の画面には、「キーボードに入力したすべての内容を、�
 
 ## 9. お問い合わせ
 
+Glyphe.info@gmail.com
+
+---
+
+# Keyboardist Privacy Policy (English)
+
+Effective: October 28, 2026 (updated November 12, 2026) — Provider: Glyphe — Contact: Glyphe.info@gmail.com
+
+## 1. Summary
+- **We do not collect, receive, or send what you type or any personal information.**
+- The app **never connects to any server** (it has no feature that communicates over the internet).
+- The app has **no ads, no analytics, and no tracking**.
+- What you type and what the app stores stay **only on your device**.
+
+## 2. Information stored on your device
+| Information | Purpose | Notes |
+|---|---|---|
+| Conversion learning data | To rank frequent conversions higher | Can be turned on or off in settings |
+| User dictionary | To use words you registered | |
+| Custom phrases and tabs | To use what you created on the keyboard | |
+| Clipboard history (text) | To type copied text again easily | **Only with Full Access on and history enabled.** Up to 50 items. Copies marked as sensitive (for example, by password managers) are not saved. You can delete items. |
+| Clipboard history (images) | To paste copied screenshots and photos easily | **Only with Full Access on and enabled in settings.** Up to 20 images, 50 MB in total. Deleted automatically after 3 days (adjustable); pinned images are kept. You can delete all from settings. |
+| Settings | To keep the keyboard looking and working the way you set it | |
+
+Deleting the app deletes this information from your device.
+
+## 3. Full Access
+iOS asks keyboards to "Allow Full Access" for some features. Keyboardist uses it only for **haptic feedback**, **clipboard history**, and the **paste button**. **Typing and conversion work without Full Access.**
+iOS shows a warning that a keyboard with Full Access could send everything you type to its developer. This warning is shown for every keyboard. **Keyboardist has no feature that communicates with any server, so what you type is never sent outside from the app.**
+
+## 4. Links to external sites
+The app contains links that open in your browser (help, open-source licenses, and so on). Those sites' privacy policies apply when you open them.
+
+## 5. Sharing with third parties
+We do not share your information with third parties. (We never receive it in the first place.)
+
+## 6. Children's privacy
+The app collects no personal information from anyone, regardless of age.
+
+## 7. Open-source software
+Keyboardist is based on open-source software including **azooKey** (MIT License, Copyright (c) 2020-2023 Keita Miwa (ensan)). Licenses are listed under "Open Source Software" in the app's settings.
+
+## 8. Changes
+If this policy changes, we will update this document and its date.
+
+## 9. Contact
 Glyphe.info@gmail.com

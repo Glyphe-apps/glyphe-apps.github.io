@@ -30,3 +30,33 @@ Keyboardist は、カーソルを自在に動かせる、日本語・英語の�
 
 ## 関連
 - [プライバシーポリシー](https://glyphe-apps.github.io/keyboardist/privacy/)
+
+---
+
+# Keyboardist Support (English)
+
+Keyboardist is a Japanese and English keyboard that lets you move the cursor freely.
+
+## Contact
+For bug reports or requests, please email us. Including your device model, iOS version, and what you did helps us check the issue.
+
+**Glyphe.info@gmail.com**
+
+Provider: Glyphe
+
+## FAQ
+
+### How do I turn on the keyboard?
+Go to Settings → General → Keyboard → Keyboards → Add New Keyboard → Keyboardist. While typing, use the globe key to switch keyboards.
+
+### Do I need "Full Access"?
+No. Typing and conversion work without Full Access. Turn it on only for haptic feedback, clipboard history, and the paste button. Keyboardist never connects to any server, so what you type is never sent anywhere.
+
+### How do I move the cursor?
+Long-press the space bar to enter cursor mode, then slide your finger in any direction. Long-press again to exit. You can also use the left and right arrow keys.
+
+### Clipboard history doesn't work
+In the Settings app, open Keyboardist and turn on "Allow Full Access", then enable clipboard history in the app's settings. Setting "Paste from Other Apps" to "Allow" stops the confirmation prompt.
+
+## Related
+- [Privacy Policy](https://glyphe-apps.github.io/keyboardist/privacy/)

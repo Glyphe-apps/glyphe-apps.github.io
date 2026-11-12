@@ -30,3 +30,36 @@ Karioki は、スクリーンショットや写真・動画を、カメラロー
 
 ## 関連
 - [プライバシーポリシー](https://glyphe-apps.github.io/karioki/privacy/)
+
+---
+
+# Karioki Support (English)
+
+Karioki keeps screenshots, photos, and videos for a while, separate from your camera roll, and deletes them automatically when they expire. It can also copy text from any screen.
+
+## Contact
+For bug reports or requests, please email us. Including your device model, iOS version, and what you did helps us check the issue.
+
+**Glyphe.info@gmail.com**
+
+Provider: Glyphe
+
+## FAQ
+
+### What happens when a photo expires?
+It is deleted automatically. **Deleted items cannot be restored.** Save important photos somewhere else before storing them.
+
+### Is it deleted right on the expiry day?
+Expired items disappear from the list. The actual deletion happens when you open the app (at launch or when it returns to the foreground). Nothing is deleted while the app is closed.
+
+### Are my photos sent anywhere?
+No. Photos and videos are stored only on your device and are never sent to any server.
+
+### How do I store from the Share Sheet?
+In Photos (or any app), tap Share and choose Karioki. If you don't see it, scroll to the end of the app row, tap More, then Edit, and add Karioki.
+
+### How do I use Copy from Screen?
+In the Shortcuts app, add "Take Screenshot" and then Karioki's "Freeze Screen to Copy". Assign the shortcut to Back Tap or the Action Button. The steps are also in the app's guide.
+
+## Related
+- [Privacy Policy](https://glyphe-apps.github.io/karioki/privacy/)
