@@ -16,6 +16,12 @@ Keyboardist は、カーソルを自在に動かせる、日本語・英語の�
 
 ## よくある質問
 
+### 無料でどこまで使えますか
+キーボード本体と、カーソルの操作（左右の矢印キー・空白キーの長押し）は、無料ですべて使えます。コピー履歴（文字・画像）は、無料では直近 3 件まで。すべての履歴と定型文は、¥500 の買い切り（アプリ内課金）で解放できます。広告・サブスクリプションはありません。
+
+### 以前に購入しました。もう一度、支払いが必要ですか
+いいえ。有料だったときに購入された方は、すべての機能を、そのままお使いいただけます。表示が切り替わらないときは、アプリの解放の画面で「購入を復元」を押してください。
+
 ### キーボードを使えるようにするには
 「設定」→「一般」→「キーボード」→「キーボード」→「新しいキーボードを追加」→「Keyboardist」を選びます。入力中は、地球儀のキーで、キーボードを切り替えます。
 
@@ -45,6 +51,12 @@ For bug reports or requests, please email us. Including your device model, iOS v
 Provider: Glyphe
 
 ## FAQ
+
+### What can I use for free?
+The keyboard and cursor controls (the arrow keys and long-pressing the space bar) are completely free. Clipboard history (text and images) shows your latest 3 items for free. Unlock your full history and custom phrases with a one-time in-app purchase. No ads, no subscription.
+
+### I bought Keyboardist before. Do I need to pay again?
+No. If you bought the app when it was paid, everything stays unlocked. If it doesn't show as unlocked, tap "Restore Purchases" on the unlock screen.
 
 ### How do I turn on the keyboard?
 Go to Settings → General → Keyboard → Keyboards → Add New Keyboard → Keyboardist. While typing, use the globe key to switch keyboards.
