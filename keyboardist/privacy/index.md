@@ -50,6 +50,8 @@ iOS の画面には、「キーボードに入力したすべての内容を、�
 
 提供者は、利用者の情報を、第三者に提供しません。（そもそも、提供者は、利用者の情報を取得しません。）
 
+アプリ内課金（機能の解放）の支払いは、Apple が処理します。提供者は、支払いの情報を受け取りません。解放されているかどうかは、端末の中で確認します。
+
 ## 6. 子どものプライバシー
 
 本アプリは、年齢にかかわらず、個人情報を収集しません。
@@ -99,6 +101,8 @@ The app contains links that open in your browser (help, open-source licenses, an
 
 ## 5. Sharing with third parties
 We do not share your information with third parties. (We never receive it in the first place.)
+
+In-app purchases (the unlock) are processed by Apple. We never receive your payment information. Whether the app is unlocked is checked on your device.
 
 ## 6. Children's privacy
 The app collects no personal information from anyone, regardless of age.
