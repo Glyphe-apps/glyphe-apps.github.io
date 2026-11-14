@@ -5,7 +5,7 @@ title: Karioki プライバシーポリシー
 
 # Karioki プライバシーポリシー
 
-制定日: 2026年10月28日（改定: 2026年11月12日）
+制定日: 2026年10月28日（改定: 2026年11月15日）
 提供者: Glyphe（以下「提供者」）
 お問い合わせ: Glyphe.info@gmail.com
 
@@ -53,6 +53,8 @@ Karioki（以下「本アプリ」）は、スクリーンショットや写真�
 
 「画面からコピー」は、ショートカットから渡された画面の画像を、端末の中で読み取ります（文字の認識も端末の中で行います）。読み取った画面は、どこにも保存しません（設定で「保管」を選んだ項目だけ、期限つきで本アプリに保管します）。
 
+「画面からコピー」の「翻訳」は、Apple の翻訳の仕組み（Translation）を使い、**端末の中で**訳します。訳す文字を、提供者や外部のサーバーへ送ることはありません。初めて使う言語では、iOS が、翻訳用の言語データを Apple から取得することがあります（iOS の機能で、本アプリは関与しません）。
+
 ## 5. 第三者への提供
 
 提供者は、利用者の情報を、第三者に提供しません。（そもそも、提供者は、利用者の情報を取得しません。）
@@ -73,7 +75,7 @@ Glyphe.info@gmail.com
 
 # Karioki Privacy Policy (English)
 
-Effective: October 28, 2026 (updated November 12, 2026) — Provider: Glyphe — Contact: Glyphe.info@gmail.com
+Effective: October 28, 2026 (updated November 15, 2026) — Provider: Glyphe — Contact: Glyphe.info@gmail.com
 
 ## 1. Summary
 - **We do not collect, receive, or send your photos, videos, or personal information.**
@@ -109,6 +111,8 @@ You can turn permissions off at any time in the Settings app.
 
 ## 4. Share Sheet, widget, and Copy from Screen
 Storing from the Share Sheet and the Home Screen widget use only a shared area on your device. Copy from Screen reads the screen image passed from Shortcuts on your device (text recognition also runs on your device). The frozen screen is not saved anywhere, except items you choose to store with an expiry.
+
+Translation in Copy from Screen uses Apple’s Translation framework and runs **on your device**. The text is never sent to us or to any server. For a new language, iOS may download language data from Apple (an iOS feature; the app is not involved).
 
 ## 5. Sharing with third parties
 We do not share your information with third parties. (We never receive it in the first place.)
