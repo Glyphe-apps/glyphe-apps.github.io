@@ -9,7 +9,7 @@ title: Glyphē apps
 
 ## Yoi to Ake
 
-「最後はいつ？」がわかる、家事と用事の記録。ウィジェットのチェックで、アプリを開かずに記録できます。
+「いつやった？」がわかる、家事と用事の記録。前回から何日たったか、次はいつ頃かが、ひと目でわかります。ウィジェットのチェックで、アプリを開かずに記録できます。
 
 **[App Store で見る](https://apps.apple.com/jp/app/yoi-to-ake/id6833862523)**
 
@@ -23,9 +23,17 @@ title: Glyphē apps
 
 [サポート](https://glyphe-apps.github.io/keyboardist/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/keyboardist/privacy/)
 
+## Mojicopi
+
+今見ている画面の文字を、ボタン 1 回でコピー。外国語は、その場で翻訳します。
+
+**[App Store で見る](https://apps.apple.com/jp/app/mojicopi/id6834931280)**
+
+[サポート](https://glyphe-apps.github.io/mojicopi/support/) / [プライバシーポリシー](https://glyphe-apps.github.io/mojicopi/privacy/)
+
 ## Karioki
 
-画面の文字をコピー。写真やスクリーンショットを、期限つきで一時保管。
+あとで消すスクショや写真を、期限つきで仮置き。期限が来たら、自動で削除します。
 
 **[App Store で見る](https://apps.apple.com/jp/app/karioki/id6825285499)**
 
